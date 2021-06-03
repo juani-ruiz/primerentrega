@@ -11,13 +11,12 @@ function App() {
             <a class="nav-link active" href="#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">informacio</a>
+            <a class="nav-link" href="#">informacion</a> 
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">contacto</a>
           </li>          
-      </ul>
-      
+      </ul>      
       </header>
     </div>
   );
