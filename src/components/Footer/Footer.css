@@ -1,0 +1,9 @@
+@import 'css/bootstrap.css';
+
+.estilo-footer{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background-color: cyan;
+
+}
